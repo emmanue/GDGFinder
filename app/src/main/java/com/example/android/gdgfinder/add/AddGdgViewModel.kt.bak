@@ -16,7 +16,6 @@
 
 
 //Following coding best practices
-
 package com.example.android.gdgfinder.add
 
 import androidx.lifecycle.LiveData

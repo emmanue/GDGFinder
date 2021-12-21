@@ -15,7 +15,6 @@
  */
 
 // Following best practices
-
 package com.example.android.gdgfinder.search
 
 import android.location.Location

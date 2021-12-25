@@ -28,7 +28,7 @@ import com.google.android.material.snackbar.Snackbar
  * limitations under the License.
  */
  
- // Following best practices
+ // Following best coding practices and solid principles
 
 
 class AddGdgFragment : Fragment() {

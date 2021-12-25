@@ -27,6 +27,8 @@ import com.google.android.material.snackbar.Snackbar
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+ 
+ // Following best practices
 
 
 class AddGdgFragment : Fragment() {

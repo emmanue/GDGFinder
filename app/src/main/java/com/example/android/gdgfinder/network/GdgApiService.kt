@@ -15,7 +15,7 @@
  */
 
 
-// Following coding best practices
+// Following coding best practices solid principles
 
 package com.example.android.gdgfinder.network
 

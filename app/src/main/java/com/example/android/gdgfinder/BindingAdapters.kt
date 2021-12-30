@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-// Following best practices
+// Following best practices with solid principles
 
 package com.example.android.gdgfinder
 

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-// Following best practices
+// Following best practices with solid princples
 
 package com.example.android.gdgfinder.search
 

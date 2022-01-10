@@ -14,7 +14,8 @@
  * limitations under the License.
  */
  
- // Following best practices
+ // Separation of concern
+ // Following best practices with solid principles
 
 
 package com.example.android.gdgfinder.home

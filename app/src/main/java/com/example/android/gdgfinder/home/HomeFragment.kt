@@ -15,6 +15,7 @@
  */
  //Separation of concern
 // Following best practices with solid principles
+// Good readability of code base
 
 package com.example.android.gdgfinder.home
 

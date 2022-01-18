@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Documents/Study Jam Android/GDGFinder-Starter/app/src/main/res/layout/activity_main.xml" value="0.13269927536231885" />
+        <entry key="..\:/Documents/Study Jam Android/GDGFinder-Starter/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Documents/Study Jam Android/GDGFinder-Starter/app/src/main/res/layout/home_fragment.xml" value="0.1" />
+        <entry key="..\:/Documents/Study Jam Android/GDGFinder-Starter/app/src/main/res/layout/list_item.xml" value="0.1661600810536981" />
       </map>
     </option>
   </component>

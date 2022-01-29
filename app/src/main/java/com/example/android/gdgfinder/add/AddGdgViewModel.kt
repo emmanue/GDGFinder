@@ -14,6 +14,7 @@
  * limitations under the License.
  */
 
+// Well structured
 // Readability of code base
 // Separation of concern
 //Following coding best practices with solid principles

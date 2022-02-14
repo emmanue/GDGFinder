@@ -28,6 +28,7 @@ import com.google.android.material.snackbar.Snackbar
  * limitations under the License.
  */
  
+ //Good Readability of code
  // Well organized code
  //Separation of concern
  // Following best coding practices and solid principles with separation of concerns
